@@ -7,9 +7,6 @@ Incluye un archivo con el código fuente y una captura de pantalla como evidenci
 
 ## 📂 Características
 - ✅ Suma
-- ✅ Resta
-- ✅ Multiplicación
-- ✅ División
 - 📷 Incluye captura de pantalla del programa en funcionamiento
 - 🐍 Código escrito en **Python**
 
